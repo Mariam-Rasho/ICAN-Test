@@ -4,7 +4,7 @@ import { EffectCards, Pagination, Autoplay } from "swiper/modules";
 import "swiper/css/effect-cube";
 import "swiper/css/autoplay";
 import 'swiper/css/pagination';
-import "Swiper/css";
+import "swiper/css";
 const services = [
     "/photo_2024-05-17_23-46-22.jpg", "/photo_2024-05-17_23-46-08.jpg", "/thisisengineering-bwZcAefzmD8-unsplash.jpg", "/photo_2024-05-17_23-45-52.jpg", "/images (1).jpg",
 ]
